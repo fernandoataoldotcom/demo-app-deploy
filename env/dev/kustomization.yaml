@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/fernandoataoldotcom/demo-app
-  newTag: be648b9a3ec48f375e1a15969a01b25568f30b2c
+  newTag: 376e12caa03732ce6057f64ae08b9ee33cea30c7
