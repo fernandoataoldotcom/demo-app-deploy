@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/fernandoataoldotcom/demo-app
+  newTag: 7dc73760bd158e31ce8dc8d76a1afe91a235c7ca
