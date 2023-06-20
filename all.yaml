@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/fernandoataoldotcom/demo-app:7dc73760bd158e31ce8dc8d76a1afe91a235c7ca
+      - image: ghcr.io/fernandoataoldotcom/demo-app:b329b117e48c6003f13c5869282837c9938554a3
         name: demo-app
         ports:
         - containerPort: 8080
